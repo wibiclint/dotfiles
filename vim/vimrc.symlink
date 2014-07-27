@@ -26,11 +26,11 @@ inoremap df <ESC>
 " nnoremap V v
 
 
-source /Users/clint/.dotfiles/vim/whitespace.vim
-source /Users/clint/.dotfiles/vim/search.vim
-source /Users/clint/.dotfiles/vim/splitting_and_opening.vim
-source /Users/clint/.dotfiles/vim/color.vim
-source /Users/clint/.dotfiles/vim/statusline.vim
+source $HOME/.dotfiles/vim/whitespace.vim
+source $HOME/.dotfiles/vim/search.vim
+source $HOME/.dotfiles/vim/splitting_and_opening.vim
+source $HOME/.dotfiles/vim/color.vim
+source $HOME/.dotfiles/vim/statusline.vim
 
 " Set UltiSnips to use something other than tab, so that we can use SuperTab
 " at the same time
